@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="47bea3f3-9bf4-4eb8-ab35-7586dae9a6b2" name="test" url="http://39.106.63.121">
+        <fileTransfer host="39.106.63.121" port="22" rootFolder="/root/pycloud" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
